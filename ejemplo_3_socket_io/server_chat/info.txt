@@ -1,2 +1,3 @@
 ipenv install "python-socketio[client]"
+ipenv install "python-socketio[server]"
 pipenv install eventlet
